@@ -1,2 +1,3 @@
 # sweet-secret
-我的git-hub代码
+
+Hi！everybody~
